@@ -1,0 +1,50 @@
+My_team:
+Goal Keeper: Cech,Mccarthy
+Defender:    Daniels,Dann,Alderweireld,Van Djik,Sagna
+Midfielder:  Ozil,Mahrez,Arnautovic,Khazri,Payet
+Forward:     Vardy,Kane,Ighalo
+Bank:        3.6
+Transfers:   1
+
+Roster:
+Goal Keeper: Gomes,Butland,Joe Hart,Fabianski
+Defender:    Fonte,Monreal,Koscielny,Bellerin
+Midfielder:  Barkley,Ericssen,Wjinaldum,Ayew
+Forward:     Lukaku,Deeney,Giroud,Aguero
+
+Goalie teams:Tottenham,Arsenal,ManchesterUnited,WestHam,Stoke,Liverpool,Southampton,Westbrom,Bournemouth,Crystalpalace,Swansea,Sunderland,Newcastle,AstonVilla
+
+Stats:
+player  | position | value | available | recent_fouls | next_opponent | fpl_points_rececnt | recently_played
+-------------------------------------------------------------------------------------------------------------------------------
+Cech    |G|5.8|y|0|Swansea|118|5
+Mccarthy|G|3.8|y|0|Sunderland|18|0
+Daniels |D|4.6|y|0|Southampton|105|5
+Dann    |D|5.7|y|0|Sunderland|107|5
+Alderweireld|D|5.8|y|0|WestHam|118|5
+Van Djik|D|5.5|y|0|Bournemouth|105|5
+Sagna   |D|5.3|y|0|Liverpool|99|3
+Ozil    |M|9.5|y|1|Swansea|167|5
+Mahrez  |M|7.2|y|0|Westbrom|187|5
+Arnautovic|M|6.3|y|1|Newcastle|123|4
+Khazri  |M|6.0|y|0|Crystalpalace|22|3
+Payet   |M|8.0|y|0|Tottenham|111|5
+Vardy   |F|7.6|y|0|Westbrom|168|5
+Kane    |F|10.0|y|0|WestHam|139|5
+Ighalo  |F|6.1|y|0|ManchesterUnited|153|5
+Gomes   |G|4.8|y|0|ManchesterUnited|118|5
+Butland |G|5.2|y|0|Newcastle|115|5
+Joe Hart|G|5.5|y|0|Liverpool|98|4
+Fabianski|G|4.7|y|0|Arsenal|88|5
+Fonte   |D|5.5|y|1|Bournemouth|109|5 
+Monreal |D|5.9|y|0|Swansea|104|5
+Koscielny|D|6.3|y|0|Swansea|104|5
+Bellerin|D|6.2|y|0|Swansea|104|5
+Barkley |M|7.3|y|1|AstonVilla|135|5
+Ericssen|M|8.6|y|0|WestHam|125|5
+Wjinaldum|M|6.9|y|0|Stoke|123|5
+Ayew    |M|6.8|y|0|Arsenal|122|5
+Lukaku  |F|8.7|y|0|AstonVilla|153|4
+Deeney  |F|5.3|y|0|ManchesterUnited|116|5
+Giroud  |F|9.0|y|0|Swansea|111|5
+Aguero  |F|13.4|y|0|Liverpool|108|5
